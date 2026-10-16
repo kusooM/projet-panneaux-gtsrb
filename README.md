@@ -1,7 +1,7 @@
 # Reconnaissance de panneaux de signalisation (GTSRB)
 
 Projet de Deep Learning — Master 1, Fondamentaux du Deep Learning (2026-2027).
-Auteur : Pariston Kamis.
+Auteur : Salim Oueslati.
 
 Classification des 43 classes de panneaux du dataset **GTSRB** avec Keras / TensorFlow : réseau dense de référence, CNN, expériences d'amélioration (Dropout, Data Augmentation, BatchNorm, Early Stopping) et analyse des erreurs.
 
