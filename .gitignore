@@ -1,0 +1,10 @@
+# Données téléchargées automatiquement par le notebook (GTSRB via torchvision)
+data/
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+
+# Sujet du projet (document de la formatrice, non redistribué)
+Projet_DL_Groupe_A_Panneaux_signalisation.pdf
